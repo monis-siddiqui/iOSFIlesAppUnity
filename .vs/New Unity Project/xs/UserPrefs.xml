@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GetFileFromIOS.cs">
+    <Files>
+      <File FileName="Assets/Plugins/IOS/SwiftPlugin/Source/SwiftForUnity.cs" Line="18" Column="1" />
+      <File FileName="Assets/Plugins/IOS/SwiftPlugin/Editor/SwiftPostProcess.cs" />
+      <File FileName="Assets/GetFileFromIOS.cs" Line="28" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="080a9fa5-c5d1-4e63-bf4f-072931b01c2a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8e13b02e-1ceb-479b-9e0b-7e0c0651a3cf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
